@@ -1,0 +1,5 @@
+I am learning Cloud Computing.
+
+My first Git lesson:
+Git tracks changes to my projects.
+GitHub stores my repositories online.
