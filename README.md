@@ -1,6 +1,1 @@
-## Git Progress
-
-- Learned Git repositories
-- Learned commits
-- Learned branches
-- Learned Pull Requests
+I am building my career in Cloud Engineering.
