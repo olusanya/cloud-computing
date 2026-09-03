@@ -1,2 +1,1 @@
-My goal is to become a Senior Cloud Engineer.
-
+My goal is to become a Senior Cloud Engineer and build strong expertise in cloud infrastructure, automation, and DevOps.
